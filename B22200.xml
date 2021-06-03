@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments resolution to raise forces to suppresse all those that are promoters of the warre begun at Hull against Sir John Hotham with a generall remonstrance of all the grievances and tyranicall oppressions that are daily throwne on the inhabitants of Lincoln-shire and Yorke shire by the cavaleers and others that are enemies to the peace of the kingdome : namely, the Earle of Lindsey, the Earle of Rivers, the Earle of Newcastle, Mr. Henry Wilmot, Sir Iohn Barkeley, Sir Hugh Pollard : vvith many others who under the pretence of standing for His Majestie take priviledge to put in execution things dangerous both to the peace of the kingdome and the very being of Parliaments.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22200</idno><idno type="EEBO-CITATION">12273057</idno>
+  <idno type="VID">197361</idno>
+  <idno type="EEBO-PROQUEST">2240969662</idno>
+  
+            <idno type="STC">Wing E2150</idno>
+            <idno type="OCLC">12273057</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E107, no 38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments resolution to raise forces to suppresse all those that are promoters of the warre begun at Hull against Sir John Hotham with a generall remonstrance of all the grievances and tyranicall oppressions that are daily throwne on the inhabitants of Lincoln-shire and Yorke shire by the cavaleers and others that are enemies to the peace of the kingdome : namely, the Earle of Lindsey, the Earle of Rivers, the Earle of Newcastle, Mr. Henry Wilmot, Sir Iohn Barkeley, Sir Hugh Pollard : vvith many others who under the pretence of standing for His Majestie take priviledge to put in execution things dangerous both to the peace of the kingdome and the very being of Parliaments.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Fawcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 22, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197361:1"/>
+            <p>THE Parliaments Resolution To raise Forces to suppresse all those that are promoters of the Warre begun at <hi>Hull</hi> against Sir JOHN HOTHAM. With a generall Remonstrance of all the grie<g ref="char:EOLhyphen"/>vances and Tyranicall oppressions that are dai<g ref="char:EOLhyphen"/>ly throwne on the Inhabitants of <hi>Lincoln-shire</hi> and <hi>Yorke shire</hi> by the Cavaleeres and others that are enemies to the peace of the Kingdome. Namely;
+<list>
+                  <item>The Earle of <hi>Lindsey</hi>
+                  </item>
+                  <item>The Earle of <hi>Rivers</hi>
+                  </item>
+                  <item>The Earle of <hi>Newcastle</hi>
+                  </item>
+                  <item>Mr. <hi>Henry Wilmot</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Barkeley</hi>
+                  </item>
+                  <item>Sir <hi>Hugh Pollard.</hi>
+                  </item>
+               </list> VVith many others who under the pretence of standing for His Majestie take priviledge to put in execution things dangerous both to the peace of the Kingdome and the very being of Parliaments.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Ordered by the Lords and Commons that this be Printed and Published.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Iohn Browne, Cler Parl.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Hen. Elsinge, Cler. D. C.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>LONDON, Printed by <hi>Tho. Fawcet,</hi> Iuly 22. 1642.</p>
+            <pb facs="tcp:197361:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197361:2"/>
+            <head>The Parliaments Resolution to to raise Forces to suppresse all those that are promoters of the Warre begunne at <hi>Hull,</hi> against Sir <hi>John Hotham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He World cannot be ignorant how active the malig<g ref="char:EOLhyphen"/>nant party hath beene in their de<g ref="char:EOLhyphen"/>signes, and coun<g ref="char:EOLhyphen"/>cells about his Majesty, both before and during the sitting of this present Parliament, using their utmost power to ruine the true Protestant Religion, with the liberty and Lawes of the Kingdome, and that after many trayterous designes against
+<pb facs="tcp:197361:3"/> the Parliament, (by Gods providence made frustrate) they drew his Majesty into the Northerne parts, publishing in his name many scandalous reproa<g ref="char:EOLhyphen"/>ches against the Lords and Commons assembled in parliament, making his Majesties Court a priviledge place to shelter Delinquents from the Iustice of Parliament, with many other Actions tending to the subversion of the origi<g ref="char:EOLhyphen"/>nall constitution and frame of this Kingdome.</p>
+            <p>And that the path of their Designes might be more easie, and that they might obtaine power to perfect their bad purposes, they wrought with His Majesty to displace the Earle of <hi>Pem<g ref="char:EOLhyphen"/>brooke,</hi> the Earles of <hi>Essex</hi> and <hi>Holland,</hi> and the Lord <hi>Fielding,</hi> for no other cause then discharging their Conscien<g ref="char:EOLhyphen"/>ces in Parliament.</p>
+            <p>Likewise the Earle of <hi>Northumberland</hi> put from his place of high Admirall-ship, then the which Act, there can be
+<pb facs="tcp:197361:3"/> none so great a promoter of future di<g ref="char:EOLhyphen"/>stractions and fatall confusion, as the sad bereaving the State of the Service of so noble a Person as he is.</p>
+            <p>By his Maiesties Order, a Garrison of Souldiers is put into <hi>Newcastle,</hi> un<g ref="char:EOLhyphen"/>der the Command of the Earle of <hi>New<g ref="char:EOLhyphen"/>castle,</hi> who should have seized upon <hi>Hull,</hi> if not timely prevented by the discreet wisdome and judicious care of that great Councell of the Kingdom, the high Court of Parliament.</p>
+            <p>Moreover there is another cause of feare that some sudden stratagem will suddenly be put in execution by the Papists, by reason the Earle of <hi>Rivers</hi> lately a notorious Papist, although he now come to Church, (as is conceived purposely to be made capable of imploy<g ref="char:EOLhyphen"/>ment) is put into the Commission of Array, which he hath executed with ri<g ref="char:EOLhyphen"/>gor, imprisoning divers persons which refused to submit thereunto, or did a<g ref="char:EOLhyphen"/>ny way oppose him.</p>
+            <pb facs="tcp:197361:4"/>
+            <p>Fortifications are raised upon the mouth of the River <hi>Tine,</hi> whereby up<g ref="char:EOLhyphen"/>on the least occasion the Trade of coals may be stopt, or at least sold at such rates as they shall please to set, to the great detriment of the whole Kingdom, especially the Citty of <hi>London.</hi>
+            </p>
+            <p>Sundry Commissions are granted for raising of Horse, divers Officers for the Army are already appointed.</p>
+            <p>Severall Troopes of Horse are sent into <hi>Lincoln-shire,</hi> to the great terrour of the well affected People, who are thereby forced either to forsake their dwellings and habitations, or to de<g ref="char:EOLhyphen"/>fend themselves with Armed men, they beginning already to commit divers outrages, taking away mens Horses by Force, and dayly committing other Acts of Hostility.</p>
+            <p>Likewise their invetterate mallice extends so farre against all those that strive to oppose them, and takes part with the Parliament, that they neglect
+<pb facs="tcp:197361:4"/> no attempt that may conduce to the dammage of the distressed party, as may appeare by their proceedings a<g ref="char:EOLhyphen"/>gainst <hi>Hull,</hi> where all meanes of reliefe is kept from comming to the inhabi<g ref="char:EOLhyphen"/>tants of the said Towne, his Majesty (perswaded by them) is come thither with an Army, all which being consi<g ref="char:EOLhyphen"/>dered, the Warre being thus begunne by his Majesty, the Lords and Com<g ref="char:EOLhyphen"/>mons hold themselves bound in Con<g ref="char:EOLhyphen"/>science to raise Forces for the preserva<g ref="char:EOLhyphen"/>tion of the Peace of the Kingdome, the defence and security of Parliament, and of all those who have beene imployed by them in any publique service for these ends.</p>
+            <p>In the performance of which, they desire the concurrance of the well dis<g ref="char:EOLhyphen"/>posed Subjects of this Kingdome, and shall manifest by their courses and en<g ref="char:EOLhyphen"/>deavours, that they are carried by no respects but of the publique good, and they will alwaies preferre the same be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:197361:5"/> their owne lives and fortunes, and shall ever be more carefull in their en<g ref="char:EOLhyphen"/>deavours and Councels, to prevent a civill Warre, so that it rests onely that the true borne English Nation doe con<g ref="char:EOLhyphen"/>sider whether they will adhere to the King and Parliament, by whom they have so long enioyed all that is deare unto them, or to the King seduced by wicked Councell, and Cavaleers, which have designed all to slavery and confu<g ref="char:EOLhyphen"/>sion, which by Gods blessing and our endeavours, may be timely prevented.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Ordered by the Lords and Commons, assembled in Parliament, that this be Printed and published.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Joh. Browne, Cler. Parliamen.</item>
+                     <item>Hen. Elsing, Cler. D. C.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
